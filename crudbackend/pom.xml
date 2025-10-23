@@ -68,7 +68,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>crud205</finalName>
+	<finalName>babjib</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
